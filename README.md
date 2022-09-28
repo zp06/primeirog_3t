@@ -1,7 +1,7 @@
 # terceiro trimestre
 
-##indentificaçao
+## indentificaçao
 Arthur menotti - nr. 2
 
-##Conteudo 
+## Conteudo 
 HTML-CSS-JavaScript
