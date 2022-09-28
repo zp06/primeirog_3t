@@ -1,3 +1,7 @@
-# primeirog_3t
+# terceiro trimestre
 
-arthur menotti nmr 2
+##indentificaçao
+Arthur menotti - nr. 2
+
+##Conteudo 
+HTML-CSS-JavaScript
