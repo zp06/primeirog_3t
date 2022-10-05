@@ -1,7 +1,7 @@
-# terceiro trimestre
+# Terceiro Trimestre
 
-## indentificaçao
-Arthur menotti - nr. 2
+## Identificação
+Jesus Maringá - Nr. 50
 
-## Conteudo 
-# HTML-CSS-JavaScript
+## Conteúdo
+HTML, CSS e JavaScript
