@@ -1,8 +1,7 @@
 # Terceiro Trimestre
 
 ## Identificação
-Jesus Maringá - Nr. 50
-
+arthur menotti nmr-2
 ## Conteúdo
 HTML, CSS e JavaScript
 .
