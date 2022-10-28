@@ -6,14 +6,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Primeiro G</title>
   <script src="estudo.js"></script>
+  <link rel="stylesheet" href="geral.css">
 </head>
 <body>
 
-
-Capital:  <input id="valor" type="text">     <br>
+<div class="calc">
+   <div id="spTotal">
+      <span id="total">R$ 0,00</span>
+   </div>
+   Capital:  <input id="valor" type="text">     <br>
    Juros Mensais:  <input id="juros" type="text">     <br>
 Nr. de Meses:  <input id="meses" type="text">     <br>
    <button onclick="total()">Calcula</button>
+<div id="spLista">
+   <span id="listaMes"></span>
+</div>
+</div>
 
    <br><br><br>
    <span id="resultado"></span><br><br>
@@ -25,4 +33,5 @@ Nr. de Meses:  <input id="meses" type="text">     <br>
     <button onclick="multiplicacao()">Multiplicação</button>
     <button onclick="porcentagem()">Porcentagem</button>
 </body>
+
 </html>

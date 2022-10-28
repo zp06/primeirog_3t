@@ -1,1 +1,36 @@
+.calc  {
+    background: rgb(236, 7, 18);
+    color: whitesmoke;
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
 
+}
+.calc input{
+background: black;
+color:white;
+padding: 5px;
+border-radius: 5px;
+}
+#spTotal {
+    background:yellow;
+    color:royalblue;
+    padding: 5px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+
+}
+.calc button {
+    background: slateblue;
+    color: black;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 10px;
+}
+.calc button:hover {
+    background:salmon;
+    color: purple;
+    cursor: pointer;
+}
+   
