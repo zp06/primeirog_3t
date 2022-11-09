@@ -5,6 +5,7 @@
     padding: 10px;
     border-radius: 10px;
     text-align: center;
+    box-shadow: 6px 6px violet;
 
 }
 .calc input{
@@ -33,4 +34,13 @@ border-radius: 5px;
     color: purple;
     cursor: pointer;
 }
-   
+#calcF{
+    display: none;
+}
+
+   #imput-calcFin {
+    display: none;
+   }
+   #imput-calFin:checked + .calc .calcF {
+    display: block;
+   }
